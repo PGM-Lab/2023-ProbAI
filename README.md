@@ -1,4 +1,4 @@
-# ProbAI 2023 - Probabilistic Programming, Variational Inference and Optimization Tutorial with Pryo
+# ProbAI 2023 - Probabilistic Programming, Variational Inference and Optimization Tutorial with Pyro
 
 
 ## Day 1 (June 12 -- 1.30pm - 4pm)
