@@ -3,7 +3,7 @@
 
 ## Day 1 (June 12 -- 1.30pm - 4pm)
 
-* [Slides](https://github.com/PGM-Lab/2023-ProbAI/raw/python/Day1/probAI-day1.pdf)
+* [Slides](https://github.com/PGM-Lab/2023-ProbAI/raw/Day1/probAI-day1.pdf)
 * Notebook: [students_PPLs_Intro](https://colab.research.google.com/github/PGM-Lab/2023-ProbAI/blob/main/Day1/notebooks/students_PPLs_Intro.ipynb)
 * Notebook: [solutions_PPLs_Intro](https://colab.research.google.com/github/PGM-Lab/2023-ProbAI/blob/main/Day1/notebooks/solutions_PPLs_Intro.ipynb)
 
