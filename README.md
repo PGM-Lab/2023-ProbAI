@@ -1,7 +1,7 @@
 # ProbAI 2023 - Probabilistic Programming, Variational Inference and Optimization Tutorial with Pyro
 
 
-## Day 1 (June 12 -- 1.30pm - 4pm)
+## Day 1 (June 12 -- 1pm - 4pm)
 * [Slides](https://github.com/PGM-Lab/2023-ProbAI/raw/main/Day1/probAI-day1.pdf)
 * Notebook: [students_PPLs_Intro](https://colab.research.google.com/github/PGM-Lab/2023-ProbAI/blob/main/Day1/notebooks/students_PPLs_Intro.ipynb)
 * Notebook: [solutions_PPLs_Intro](https://colab.research.google.com/github/PGM-Lab/2023-ProbAI/blob/main/Day1/notebooks/solutions_PPLs_Intro.ipynb)
